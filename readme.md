@@ -5,3 +5,11 @@ inside head tag
 <link rel="shortcut icon" href="images/favicon.io" type="image/x-icon"/>
 
 You can generate favicon icons/images from  "favicon.io" website
+
+
+
+priority 
+
+id>class>element
+
+remeber it as ICE
